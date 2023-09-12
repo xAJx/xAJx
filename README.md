@@ -5,7 +5,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/Weather?logoColor=green&label=issue_weather&labelColor=red&color=blue)
 <br/>
 
-<h1 align="center">Hi 😊, I'm AJ</h1>
 <h3 align="center">喜歡學習 Python、linkIt7697_MediaTek Cloud Sandbox、</h3>
 
 <h3 align="left">Connect with me:</h3>
