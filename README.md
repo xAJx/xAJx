@@ -1,11 +1,12 @@
 # Hi there 👋
 
-https://img.shields.io/github/followers/xAJx
-<br/>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/xAJx">
-<br/>
 ![GitHub followers](https://img.shields.io/github/followers/xAJx)
 <br/>
+![GitHub issues](https://img.shields.io/github/issues/xAJx/testone?logoColor=green&labelColor=gray)
+<br/>
+![GitHub issues](https://img.shields.io/github/issues/xAJx/Weather?logoColor=green&labelColor=red)
+<br/>
+
 
 <!--
 **xAJx/xAJx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
