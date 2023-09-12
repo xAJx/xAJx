@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/xAJx)
-<br/>
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/testone?logoColor=green&labelColor=gray)
 <br/>
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/Weather?logoColor=green&label=issue_weather&labelColor=red&color=blue)
