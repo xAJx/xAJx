@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi I'm AJ 😊
 
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/testone?logoColor=green&labelColor=gray)
 <br/>
