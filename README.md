@@ -4,7 +4,7 @@
 <br/>
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/testone?logoColor=green&labelColor=gray)
 <br/>
-![GitHub issues](https://img.shields.io/github/issues/xAJx/Weather?logoColor=green&labelColor=red)
+![GitHub issues](https://img.shields.io/github/issues/xAJx/Weather?logoColor=green&label=issue_weather&labelColor=red&color=blue)
 <br/>
 
 
