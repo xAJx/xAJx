@@ -1,8 +1,8 @@
 # Hi I'm AJ 😊
 
-![GitHub issues](https://img.shields.io/github/issues/xAJx/LineBot-Chat_Tarol-Record?logoColor=green&label=issues_LineBot-Chat_Tarol-Record&labelColor=blue)
+![GitHub issues](https://img.shields.io/github/issues/xAJx/LineBot-Chat_Tarol-Record?logoColor=red&label=issues_LineBot-Chat_Tarol-Record&labelColor=blue)
 <br/>
-![GitHub issues](https://img.shields.io/github/issues/xAJx/Weather-Query_Packaging-exe?logoColor=green&label=issues_Weather-Query_Packaging-exe&labelColor=blue)
+![GitHub issues](https://img.shields.io/github/issues/xAJx/Weather-Query_Packaging-exe?logoColor=orange&label=issues_Weather-Query_Packaging-exe&labelColor=blue)
 <br/>
 
 <h3 align="center">喜歡學習 Python、linkIt7697_MediaTek Cloud Sandbox</h3>
