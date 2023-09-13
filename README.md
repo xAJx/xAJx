@@ -9,6 +9,8 @@
 <br/>
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/Git_Demo_AJ?logoColor=yellow&label=issues_Git_Demo_AJ&labelColor=pink)
 <br/>
+![GitHub issues](https://img.shields.io/github/issues/xAJx/Socket_Server-each-other-chat-Client?logoColor=green&label=issues_Socket_Server-each-other-chat-Client&labelColor=pink)
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
