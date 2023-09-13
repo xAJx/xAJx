@@ -1,6 +1,7 @@
 # Hi I'm AJ 😊
 
 <h3 align="center">喜歡學習 Python、linkIt7697_MediaTek Cloud Sandbox</h3>
+<br/>
 
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/LineBot-Chat_Tarol-Record?logoColor=red&label=issues_LineBot-Chat_Tarol-Record&labelColor=pink)
 <br/>
