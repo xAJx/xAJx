@@ -7,6 +7,8 @@
 <br/>
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/Weather-Query_Packaging-exe?logoColor=orange&label=issues_Weather-Query_Packaging-exe&labelColor=pink)
 <br/>
+![GitHub issues](https://img.shields.io/github/issues/xAJx/Git_Demo_AJ?logoColor=yellow&label=issues_Git_Demo_AJ&labelColor=pink)
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
