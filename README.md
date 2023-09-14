@@ -13,6 +13,8 @@
 <br/>
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/Threading_concurrent-futures_Resptile_Store-Excel?logoColor=blue&label=issues_Threading_concurrent-futures_Resptile_Store-Excel&labelColor=pink)
 <br/>
+![GitHub issues](https://img.shields.io/github/issues/xAJx/Big-Data-Analysis_Data-Visualization_AJ?logoColor=purple&label=issues_Big-Data-Analysis_Data-Visualization_AJ&labelColor=pink)
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
