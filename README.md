@@ -11,6 +11,8 @@
 <br/>
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/Socket_Server-each-other-chat-Client?logoColor=green&label=issues_Socket_Server-each-other-chat-Client&labelColor=pink)
 <br/>
+![GitHub issues](https://img.shields.io/github/issues/xAJx/Threading_concurrent-futures_Resptile_Store-Excel?logoColor=blue&label=issues_Threading_concurrent-futures_Resptile_Store-Excel&labelColor=pink)
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
