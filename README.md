@@ -15,6 +15,8 @@
 <br/>
 ![GitHub issues](https://img.shields.io/github/issues/xAJx/Big-Data-Analysis_Data-Visualization_AJ?logoColor=purple&label=issues_Big-Data-Analysis_Data-Visualization_AJ&labelColor=pink)
 <br/>
+![GitHub issues](https://img.shields.io/github/issues/xAJx/OpenCV_GitHub?label=issues_OpenCV_GitHub&labelColor=pink)
+<br/>
 
 <h3 align="left">Related to me:</h3>
 <p align="left">
